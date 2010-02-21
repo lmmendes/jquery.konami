@@ -12,7 +12,7 @@ How to use
 
 You can custom the Konami code passing it's as string containing ASCII char separated by a ,
 
-    $window.konami(function(){
+    $(window).konami(function(){
         alert('Danger Will Robinson. Danger,');
     }, '32,32');
 
