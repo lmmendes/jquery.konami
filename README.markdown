@@ -3,6 +3,8 @@ Konami Code
 
 A very simple implementation of the Konami Code
 
+See demo here <a href='http://unsignedint.net/labs/konami'>http://unsignedint.net/labs/konami/</a>
+
 How to use
 -----------
 
